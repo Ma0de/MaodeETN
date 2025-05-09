@@ -8,6 +8,7 @@ I may update some safer and more interesting features later.
 I probably won't update this project anytime soon; it might only get updated if I remember and become interested in it.
 # Goal
 
-Add more cryptographic algorithms
+Add more cryptographic algorithms.
+
 Add some interesting features.
 ......
