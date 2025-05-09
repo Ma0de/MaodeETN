@@ -10,5 +10,4 @@ I probably won't update this project anytime soon; it might only get updated if 
 
 Add more cryptographic algorithms.
 
-Add some interesting features.
-......
+Add some interesting features.......
